@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\StijnCastelyns\\Documents\\Visug Semantic Kernel\\Demos\\Demo 4 - Planners\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A43F6C-3FB1-4054-AAD3-E926E32D3271}|PlannerDemo\\PlannerDemo.csproj|c:\\users\\stijncastelyns\\documents\\visug semantic kernel\\demos\\demo 4 - planners\\plannerdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A43F6C-3FB1-4054-AAD3-E926E32D3271}|PlannerDemo\\PlannerDemo.csproj|solutionrelative:plannerdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\StijnCastelyns\\Documents\\Visug Semantic Kernel\\Demos\\Demo 4 - Planners\\PlannerDemo\\Program.cs",
+              "RelativeDocumentMoniker": "PlannerDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\StijnCastelyns\\Documents\\Visug Semantic Kernel\\Demos\\Demo 4 - Planners\\PlannerDemo\\Program.cs",
+              "RelativeToolTip": "PlannerDemo\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T13:35:08.761Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

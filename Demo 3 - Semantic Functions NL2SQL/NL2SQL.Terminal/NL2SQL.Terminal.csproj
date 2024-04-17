@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<UserSecretsId>f7598fcc-5ee8-4c3f-8a97-d7d1ce9c5976</UserSecretsId>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="ConsoleTables" Version="2.6.1" />
+		<PackageReference Include="Dapper" Version="2.1.28" />
+		<PackageReference Include="Microsoft.Data.SqlClient" Version="5.1.5" />
+		<PackageReference Include="Microsoft.Extensions.Configuration.UserSecrets" Version="8.0.0" />
+		<PackageReference Include="Microsoft.SemanticKernel" Version="1.4.0" />
+		<PackageReference Include="Microsoft.SemanticKernel.PromptTemplates.Handlebars" Version="1.4.0" />
+		<PackageReference Include="Microsoft.SemanticKernel.Yaml" Version="1.4.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<EmbeddedResource Include="Prompts\**\*.yaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\NL2SQL.Infra\NL2SQL.Infra.csproj" />
+	</ItemGroup>
+
+</Project>

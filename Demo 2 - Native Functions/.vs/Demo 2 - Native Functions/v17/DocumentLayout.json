@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\StijnCastelyns\\Documents\\Visug Semantic Kernel\\Demos\\Demo 2 - Native Functions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3C1B66-B26E-4E99-AB91-0905212C45A6}|NativeFunctionDemo\\NativeFunctionDemo.csproj|c:\\users\\stijncastelyns\\documents\\visug semantic kernel\\demos\\demo 2 - native functions\\nativefunctiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3C1B66-B26E-4E99-AB91-0905212C45A6}|NativeFunctionDemo\\NativeFunctionDemo.csproj|solutionrelative:nativefunctiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3C1B66-B26E-4E99-AB91-0905212C45A6}|NativeFunctionDemo\\NativeFunctionDemo.csproj|c:\\users\\stijncastelyns\\documents\\visug semantic kernel\\demos\\demo 2 - native functions\\nativefunctiondemo\\plugins\\trainplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3C1B66-B26E-4E99-AB91-0905212C45A6}|NativeFunctionDemo\\NativeFunctionDemo.csproj|solutionrelative:nativefunctiondemo\\plugins\\trainplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3C1B66-B26E-4E99-AB91-0905212C45A6}|NativeFunctionDemo\\NativeFunctionDemo.csproj|c:\\users\\stijncastelyns\\documents\\visug semantic kernel\\demos\\demo 2 - native functions\\nativefunctiondemo\\plugins\\mathplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3C1B66-B26E-4E99-AB91-0905212C45A6}|NativeFunctionDemo\\NativeFunctionDemo.csproj|solutionrelative:nativefunctiondemo\\plugins\\mathplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrainPlugin.cs",
+              "DocumentMoniker": "C:\\Users\\StijnCastelyns\\Documents\\Visug Semantic Kernel\\Demos\\Demo 2 - Native Functions\\NativeFunctionDemo\\Plugins\\TrainPlugin.cs",
+              "RelativeDocumentMoniker": "NativeFunctionDemo\\Plugins\\TrainPlugin.cs",
+              "ToolTip": "C:\\Users\\StijnCastelyns\\Documents\\Visug Semantic Kernel\\Demos\\Demo 2 - Native Functions\\NativeFunctionDemo\\Plugins\\TrainPlugin.cs",
+              "RelativeToolTip": "NativeFunctionDemo\\Plugins\\TrainPlugin.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwAwAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:34:58.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MathPlugin.cs",
+              "DocumentMoniker": "C:\\Users\\StijnCastelyns\\Documents\\Visug Semantic Kernel\\Demos\\Demo 2 - Native Functions\\NativeFunctionDemo\\Plugins\\MathPlugin.cs",
+              "RelativeDocumentMoniker": "NativeFunctionDemo\\Plugins\\MathPlugin.cs",
+              "ToolTip": "C:\\Users\\StijnCastelyns\\Documents\\Visug Semantic Kernel\\Demos\\Demo 2 - Native Functions\\NativeFunctionDemo\\Plugins\\MathPlugin.cs",
+              "RelativeToolTip": "NativeFunctionDemo\\Plugins\\MathPlugin.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:16:38.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\StijnCastelyns\\Documents\\Visug Semantic Kernel\\Demos\\Demo 2 - Native Functions\\NativeFunctionDemo\\Program.cs",
+              "RelativeDocumentMoniker": "NativeFunctionDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\StijnCastelyns\\Documents\\Visug Semantic Kernel\\Demos\\Demo 2 - Native Functions\\NativeFunctionDemo\\Program.cs",
+              "RelativeToolTip": "NativeFunctionDemo\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:15:43.446Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

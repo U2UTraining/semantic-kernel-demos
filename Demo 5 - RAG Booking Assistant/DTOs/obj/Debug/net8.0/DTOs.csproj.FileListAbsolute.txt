@@ -1,0 +1,31 @@
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\DTOs\bin\Debug\net8.0\DTOs.deps.json
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\DTOs\bin\Debug\net8.0\DTOs.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\DTOs\bin\Debug\net8.0\DTOs.pdb
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\DTOs\bin\Debug\net8.0\Entities.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\DTOs\bin\Debug\net8.0\Entities.pdb
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\DTOs\obj\Debug\net8.0\DTOs.csproj.AssemblyReference.cache
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\DTOs\obj\Debug\net8.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfoInputs.cache
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfo.cs
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\DTOs\obj\Debug\net8.0\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\DTOs\obj\Debug\net8.0\DTOs.csproj.CopyComplete
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\DTOs\obj\Debug\net8.0\DTOs.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\DTOs\obj\Debug\net8.0\refint\DTOs.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\DTOs\obj\Debug\net8.0\DTOs.pdb
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\DTOs\obj\Debug\net8.0\ref\DTOs.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\DTOs\bin\Debug\net8.0\DTOs.deps.json
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\DTOs\bin\Debug\net8.0\DTOs.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\DTOs\bin\Debug\net8.0\DTOs.pdb
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\DTOs\bin\Debug\net8.0\Entities.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\DTOs\bin\Debug\net8.0\Entities.pdb
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\DTOs\obj\Debug\net8.0\DTOs.csproj.AssemblyReference.cache
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\DTOs\obj\Debug\net8.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfoInputs.cache
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfo.cs
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\DTOs\obj\Debug\net8.0\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\DTOs\obj\Debug\net8.0\DTOs.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\DTOs\obj\Debug\net8.0\refint\DTOs.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\DTOs\obj\Debug\net8.0\DTOs.pdb
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\DTOs\obj\Debug\net8.0\ref\DTOs.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\DTOs\obj\Debug\net8.0\DTOs.sourcelink.json
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\DTOs\obj\Debug\net8.0\DTOs.csproj.Up2Date

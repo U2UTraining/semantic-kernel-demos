@@ -1,0 +1,154 @@
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Client.exe
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Client.deps.json
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Client.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Client.pdb
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Azure.AI.OpenAI.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Google.Apis.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Google.Apis.CustomSearchAPI.v1.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Handlebars.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Handlebars.Net.Helpers.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\HandlebarsDotNet.Helpers.Core.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Humanizer.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\JetBrains.Annotations.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Json.More.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\JsonPointer.Net.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\JsonSchema.Net.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\JsonSchema.Net.Generation.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Microsoft.Bcl.HashCode.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Microsoft.SemanticKernel.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Microsoft.SemanticKernel.Abstractions.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Microsoft.SemanticKernel.Connectors.OpenAI.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Microsoft.SemanticKernel.Core.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Microsoft.SemanticKernel.Planners.Handlebars.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Microsoft.SemanticKernel.Planners.OpenAI.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Microsoft.SemanticKernel.Plugins.Core.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Microsoft.SemanticKernel.Plugins.Web.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Microsoft.SemanticKernel.PromptTemplates.Handlebars.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Microsoft.SemanticKernel.Yaml.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Stef.Validation.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\YamlDotNet.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\obj\Debug\net8.0\Client.csproj.AssemblyReference.cache
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\obj\Debug\net8.0\Client.csproj.CopyComplete
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\obj\Debug\net8.0\Client.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\obj\Debug\net8.0\refint\Client.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\obj\Debug\net8.0\Client.pdb
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\obj\Debug\net8.0\ref\Client.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Azure.AI.FormRecognizer.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Azure.Search.Documents.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Azure.Storage.Blobs.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Azure.Storage.Common.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Azure.Storage.Queues.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\ClosedXML.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\ExcelNumberFormat.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Irony.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Microsoft.KernelMemory.Abstractions.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Microsoft.KernelMemory.AI.AzureOpenAI.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Microsoft.KernelMemory.AI.OpenAI.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Microsoft.KernelMemory.ContentStorage.AzureBlobs.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Microsoft.KernelMemory.Core.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Microsoft.KernelMemory.DataFormats.AzureAIDocIntel.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Microsoft.KernelMemory.MemoryDb.AzureAISearch.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Microsoft.KernelMemory.MemoryDb.Qdrant.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Microsoft.KernelMemory.Orchestration.AzureQueues.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\UglyToad.PdfPig.Core.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\UglyToad.PdfPig.DocumentLayoutAnalysis.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\UglyToad.PdfPig.Fonts.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\UglyToad.PdfPig.Package.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\UglyToad.PdfPig.Tokenization.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\UglyToad.PdfPig.Tokens.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\UglyToad.PdfPig.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Polly.Core.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\SixLabors.Fonts.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\System.Linq.Async.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\System.Numerics.Tensors.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\XLParser.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Microsoft.KernelMemory.SemanticKernelPlugin.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Microsoft.KernelMemory.WebClient.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Entities.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\Entities.pdb
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\DTOs.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\Semantic Kernel Prutsing\SemanticKernelDemo\Client\bin\Debug\net8.0\DTOs.pdb
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\obj\Debug\net8.0\Client.csproj.AssemblyReference.cache
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\obj\Debug\net8.0\Client.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\obj\Debug\net8.0\refint\Client.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\obj\Debug\net8.0\Client.pdb
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\bin\Debug\net8.0\Client.exe
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\bin\Debug\net8.0\Client.deps.json
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\bin\Debug\net8.0\Client.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\bin\Debug\net8.0\Client.pdb
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\bin\Debug\net8.0\Azure.AI.OpenAI.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\bin\Debug\net8.0\Handlebars.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\bin\Debug\net8.0\Handlebars.Net.Helpers.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\bin\Debug\net8.0\HandlebarsDotNet.Helpers.Core.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\bin\Debug\net8.0\Humanizer.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\bin\Debug\net8.0\JetBrains.Annotations.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\bin\Debug\net8.0\Json.More.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\bin\Debug\net8.0\JsonPointer.Net.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\bin\Debug\net8.0\JsonSchema.Net.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\bin\Debug\net8.0\JsonSchema.Net.Generation.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\bin\Debug\net8.0\Microsoft.Bcl.HashCode.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\bin\Debug\net8.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\bin\Debug\net8.0\Microsoft.SemanticKernel.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\bin\Debug\net8.0\Microsoft.SemanticKernel.Abstractions.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\bin\Debug\net8.0\Microsoft.SemanticKernel.Connectors.OpenAI.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\bin\Debug\net8.0\Microsoft.SemanticKernel.Core.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\bin\Debug\net8.0\Microsoft.SemanticKernel.PromptTemplates.Handlebars.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\bin\Debug\net8.0\Microsoft.SemanticKernel.Yaml.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\bin\Debug\net8.0\Stef.Validation.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\bin\Debug\net8.0\YamlDotNet.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\bin\Debug\net8.0\DTOs.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\bin\Debug\net8.0\Entities.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\bin\Debug\net8.0\DTOs.pdb
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\bin\Debug\net8.0\Entities.pdb
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\obj\Debug\net8.0\ref\Client.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\bin\Debug\net8.0\Prompts\courseSelector.prompt.yaml
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\obj\Debug\net8.0\Client.sourcelink.json
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\obj\Debug\net8.0\Client.csproj.Up2Date
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 5 - RAG Booking Assistant\Client\bin\Debug\net8.0\System.ClientModel.dll

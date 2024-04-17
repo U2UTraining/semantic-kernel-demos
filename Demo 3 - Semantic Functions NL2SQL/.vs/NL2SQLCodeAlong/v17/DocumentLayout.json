@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\StijnCastelyns\\Documents\\Visug Semantic Kernel\\Demos\\Demo 3 - Semantic Functions NL2SQL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A78B5D28-0F52-4E85-A935-E85365F030A7}|NL2SQL.Terminal\\NL2SQL.Terminal.csproj|c:\\users\\stijncastelyns\\documents\\visug semantic kernel\\demos\\demo 3 - semantic functions nl2sql\\nl2sql.terminal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78B5D28-0F52-4E85-A935-E85365F030A7}|NL2SQL.Terminal\\NL2SQL.Terminal.csproj|solutionrelative:nl2sql.terminal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D26F379-2212-4BC5-A128-90D93981491A}|NL2SQL.Infra\\NL2SQL.Infra.csproj|c:\\users\\stijncastelyns\\documents\\visug semantic kernel\\demos\\demo 3 - semantic functions nl2sql\\nl2sql.infra\\tableprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D26F379-2212-4BC5-A128-90D93981491A}|NL2SQL.Infra\\NL2SQL.Infra.csproj|solutionrelative:nl2sql.infra\\tableprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78B5D28-0F52-4E85-A935-E85365F030A7}|NL2SQL.Terminal\\NL2SQL.Terminal.csproj|c:\\users\\stijncastelyns\\documents\\visug semantic kernel\\demos\\demo 3 - semantic functions nl2sql\\nl2sql.terminal\\prompts\\nl2tsqltranslator.prompt.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A78B5D28-0F52-4E85-A935-E85365F030A7}|NL2SQL.Terminal\\NL2SQL.Terminal.csproj|solutionrelative:nl2sql.terminal\\prompts\\nl2tsqltranslator.prompt.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TableProvider.cs",
+              "DocumentMoniker": "C:\\Users\\StijnCastelyns\\Documents\\Visug Semantic Kernel\\Demos\\Demo 3 - Semantic Functions NL2SQL\\NL2SQL.Infra\\TableProvider.cs",
+              "RelativeDocumentMoniker": "NL2SQL.Infra\\TableProvider.cs",
+              "ToolTip": "C:\\Users\\StijnCastelyns\\Documents\\Visug Semantic Kernel\\Demos\\Demo 3 - Semantic Functions NL2SQL\\NL2SQL.Infra\\TableProvider.cs",
+              "RelativeToolTip": "NL2SQL.Infra\\TableProvider.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T13:34:04.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\StijnCastelyns\\Documents\\Visug Semantic Kernel\\Demos\\Demo 3 - Semantic Functions NL2SQL\\NL2SQL.Terminal\\Program.cs",
+              "RelativeDocumentMoniker": "NL2SQL.Terminal\\Program.cs",
+              "ToolTip": "C:\\Users\\StijnCastelyns\\Documents\\Visug Semantic Kernel\\Demos\\Demo 3 - Semantic Functions NL2SQL\\NL2SQL.Terminal\\Program.cs",
+              "RelativeToolTip": "NL2SQL.Terminal\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T13:33:34.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "nl2tsqlTranslator.prompt.yaml",
+              "DocumentMoniker": "C:\\Users\\StijnCastelyns\\Documents\\Visug Semantic Kernel\\Demos\\Demo 3 - Semantic Functions NL2SQL\\NL2SQL.Terminal\\Prompts\\nl2tsqlTranslator.prompt.yaml",
+              "RelativeDocumentMoniker": "NL2SQL.Terminal\\Prompts\\nl2tsqlTranslator.prompt.yaml",
+              "ToolTip": "C:\\Users\\StijnCastelyns\\Documents\\Visug Semantic Kernel\\Demos\\Demo 3 - Semantic Functions NL2SQL\\NL2SQL.Terminal\\Prompts\\nl2tsqlTranslator.prompt.yaml",
+              "RelativeToolTip": "NL2SQL.Terminal\\Prompts\\nl2tsqlTranslator.prompt.yaml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-04-17T12:55:23.658Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

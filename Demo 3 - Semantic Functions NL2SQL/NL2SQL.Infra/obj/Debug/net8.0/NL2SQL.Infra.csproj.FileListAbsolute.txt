@@ -1,0 +1,26 @@
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\UADAI - Demos\Semantic Kernel\NL2SQLCodeAlong\NL2SQL.Infra\bin\Debug\net8.0\NL2SQL.Infra.deps.json
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\UADAI - Demos\Semantic Kernel\NL2SQLCodeAlong\NL2SQL.Infra\bin\Debug\net8.0\NL2SQL.Infra.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\UADAI - Demos\Semantic Kernel\NL2SQLCodeAlong\NL2SQL.Infra\bin\Debug\net8.0\NL2SQL.Infra.pdb
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\UADAI - Demos\Semantic Kernel\NL2SQLCodeAlong\NL2SQL.Infra\obj\Debug\net8.0\NL2SQL.Infra.csproj.AssemblyReference.cache
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\UADAI - Demos\Semantic Kernel\NL2SQLCodeAlong\NL2SQL.Infra\obj\Debug\net8.0\NL2SQL.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\UADAI - Demos\Semantic Kernel\NL2SQLCodeAlong\NL2SQL.Infra\obj\Debug\net8.0\NL2SQL.Infra.AssemblyInfoInputs.cache
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\UADAI - Demos\Semantic Kernel\NL2SQLCodeAlong\NL2SQL.Infra\obj\Debug\net8.0\NL2SQL.Infra.AssemblyInfo.cs
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\UADAI - Demos\Semantic Kernel\NL2SQLCodeAlong\NL2SQL.Infra\obj\Debug\net8.0\NL2SQL.Infra.csproj.CoreCompileInputs.cache
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\UADAI - Demos\Semantic Kernel\NL2SQLCodeAlong\NL2SQL.Infra\obj\Debug\net8.0\NL2SQL.Infra.sourcelink.json
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\UADAI - Demos\Semantic Kernel\NL2SQLCodeAlong\NL2SQL.Infra\obj\Debug\net8.0\NL2SQL.Infra.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\UADAI - Demos\Semantic Kernel\NL2SQLCodeAlong\NL2SQL.Infra\obj\Debug\net8.0\refint\NL2SQL.Infra.dll
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\UADAI - Demos\Semantic Kernel\NL2SQLCodeAlong\NL2SQL.Infra\obj\Debug\net8.0\NL2SQL.Infra.pdb
+C:\Users\StijnCastelyns\Documents\Courses\UADAI\UADAI - Demos\Semantic Kernel\NL2SQLCodeAlong\NL2SQL.Infra\obj\Debug\net8.0\ref\NL2SQL.Infra.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 3 - Semantic Functions NL2SQL\NL2SQL.Infra\bin\Debug\net8.0\NL2SQL.Infra.deps.json
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 3 - Semantic Functions NL2SQL\NL2SQL.Infra\bin\Debug\net8.0\NL2SQL.Infra.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 3 - Semantic Functions NL2SQL\NL2SQL.Infra\bin\Debug\net8.0\NL2SQL.Infra.pdb
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 3 - Semantic Functions NL2SQL\NL2SQL.Infra\obj\Debug\net8.0\NL2SQL.Infra.csproj.AssemblyReference.cache
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 3 - Semantic Functions NL2SQL\NL2SQL.Infra\obj\Debug\net8.0\NL2SQL.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 3 - Semantic Functions NL2SQL\NL2SQL.Infra\obj\Debug\net8.0\NL2SQL.Infra.AssemblyInfoInputs.cache
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 3 - Semantic Functions NL2SQL\NL2SQL.Infra\obj\Debug\net8.0\NL2SQL.Infra.AssemblyInfo.cs
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 3 - Semantic Functions NL2SQL\NL2SQL.Infra\obj\Debug\net8.0\NL2SQL.Infra.csproj.CoreCompileInputs.cache
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 3 - Semantic Functions NL2SQL\NL2SQL.Infra\obj\Debug\net8.0\NL2SQL.Infra.sourcelink.json
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 3 - Semantic Functions NL2SQL\NL2SQL.Infra\obj\Debug\net8.0\NL2SQL.Infra.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 3 - Semantic Functions NL2SQL\NL2SQL.Infra\obj\Debug\net8.0\refint\NL2SQL.Infra.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 3 - Semantic Functions NL2SQL\NL2SQL.Infra\obj\Debug\net8.0\NL2SQL.Infra.pdb
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 3 - Semantic Functions NL2SQL\NL2SQL.Infra\obj\Debug\net8.0\ref\NL2SQL.Infra.dll

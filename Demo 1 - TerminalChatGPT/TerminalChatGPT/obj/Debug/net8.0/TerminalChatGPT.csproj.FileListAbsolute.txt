@@ -1,0 +1,101 @@
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\TerminalChatGPT.exe
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\TerminalChatGPT.deps.json
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\TerminalChatGPT.runtimeconfig.json
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\TerminalChatGPT.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\TerminalChatGPT.pdb
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Azure.AI.OpenAI.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Humanizer.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\JetBrains.Annotations.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Json.More.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\JsonPointer.Net.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\JsonSchema.Net.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\JsonSchema.Net.Generation.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.Bcl.HashCode.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.SemanticKernel.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.SemanticKernel.Abstractions.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.SemanticKernel.Connectors.OpenAI.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.SemanticKernel.Core.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\obj\Debug\net8.0\TerminalChatGPT.csproj.AssemblyReference.cache
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\obj\Debug\net8.0\TerminalChatGPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\obj\Debug\net8.0\TerminalChatGPT.AssemblyInfoInputs.cache
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\obj\Debug\net8.0\TerminalChatGPT.AssemblyInfo.cs
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\obj\Debug\net8.0\TerminalChatGPT.csproj.CoreCompileInputs.cache
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\obj\Debug\net8.0\TerminalChatGPT.csproj.CopyComplete
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\obj\Debug\net8.0\TerminalChatGPT.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\obj\Debug\net8.0\refint\TerminalChatGPT.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\obj\Debug\net8.0\TerminalChatGPT.pdb
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\obj\Debug\net8.0\TerminalChatGPT.genruntimeconfig.cache
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\TerminalChatGPT\TerminalChatGPT\obj\Debug\net8.0\ref\TerminalChatGPT.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\TerminalChatGPT.exe
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\TerminalChatGPT.deps.json
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\TerminalChatGPT.runtimeconfig.json
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\TerminalChatGPT.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\TerminalChatGPT.pdb
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Azure.AI.OpenAI.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Humanizer.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\JetBrains.Annotations.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Json.More.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\JsonPointer.Net.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\JsonSchema.Net.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\JsonSchema.Net.Generation.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.Bcl.HashCode.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.SemanticKernel.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.SemanticKernel.Abstractions.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.SemanticKernel.Connectors.OpenAI.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\Microsoft.SemanticKernel.Core.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\obj\Debug\net8.0\TerminalChatGPT.csproj.AssemblyReference.cache
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\obj\Debug\net8.0\TerminalChatGPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\obj\Debug\net8.0\TerminalChatGPT.AssemblyInfoInputs.cache
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\obj\Debug\net8.0\TerminalChatGPT.AssemblyInfo.cs
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\obj\Debug\net8.0\TerminalChatGPT.csproj.CoreCompileInputs.cache
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\obj\Debug\net8.0\TerminalChatGPT.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\obj\Debug\net8.0\refint\TerminalChatGPT.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\obj\Debug\net8.0\TerminalChatGPT.pdb
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\obj\Debug\net8.0\TerminalChatGPT.genruntimeconfig.cache
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\obj\Debug\net8.0\ref\TerminalChatGPT.dll
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\obj\Debug\net8.0\TerminalChatGPT.sourcelink.json
+C:\Users\StijnCastelyns\Documents\Visug Semantic Kernel\Demos\Demo 1 - TerminalChatGPT\TerminalChatGPT\obj\Debug\net8.0\Terminal.F576D0E5.Up2Date

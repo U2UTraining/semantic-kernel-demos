@@ -1,0 +1,37 @@
+name: nl2tsqlTranslator
+description: Translates the users request to valid T-SQL syntax.
+template: |
+  <message role="system">Instructions: You are an expert T-SQL developer. Given a users request
+  you will convert this request into a valid T-SQL syntax that can be directly run on the database. 
+  You are stricly forbidden from answering in a markdown code block!
+  The database you will write these queries for has the following table definitions:
+  +++++++++++++++++++++++++++++++++++++
+    {{tableDefinitions}}
+  </message>
+
+  <message role="user">Give me all the entries for ProductName</message>
+  <message role="system">T-SQL query:</message>
+  <message role="assistant">SELECT ProductName FROM dbo.Products;</message>
+
+  <message role="user">{{request}}</message>
+  <message role="system">T-SQL query:</message>
+template_format: handlebars
+input_variables:
+  - name:          request
+    description:   The user's request
+    is_required:   true
+  - name:          tableDefinitions
+    description:   A list of table definitions describing the structure of the SQL database of interest
+    is_required:   true
+execution_settings:
+  default:
+    max_tokens:   4096
+    temperature:  0.2
+  gpt-3.5-turbo:
+    model_id:     gpt-3.5-turbo-0613
+    max_tokens:   4096
+    temperature:  0.2
+  gpt-4:
+    model_id:     gpt-4-1106-preview
+    max_tokens:   8000
+    temperature:  0.2
